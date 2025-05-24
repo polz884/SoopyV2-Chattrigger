@@ -21,10 +21,6 @@
 - 🛰️ Utilities for packet handling and rendering  
 - 🔌 Extensible APIs for advanced script development
 
-## Usage
-
-SoopyV2 serves as a base module for other ChatTriggers scripts such as [SoopyAddons](https://github.com/Soopyboo32/soopyaddons) and other tools with GUI, pathfinding, math utilities, and more. It is **not meant to be run standalone** but required as a dependency.
-
 For developers:  
 ```js
 const gui = new SoopyGuiElement();
