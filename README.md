@@ -6,13 +6,17 @@
 
 > ⚠️ This module **cannot** be installed via `/ct import`. Manual installation is required:
 
-1. Open your ChatTriggers modules folder:  
+1. Download ChatTriggers:
+
+   https://chattriggers.com/
+
+2. Open your ChatTriggers modules folder (or just do /ct files ingame):  
    - Windows: `%appdata%/.minecraft/config/ChatTriggers/modules`  
    - macOS/Linux: `~/.minecraft/config/ChatTriggers/modules`
 
-2. Extract the archive and move the folder into the modules directory. 
+3. Extract the archive and move the folder into the modules directory. 
 
-3. Restart Minecraft or run `/ct reload` in-game.
+4. Restart Minecraft or run `/ct reload` in-game.
 
 ## Features
 
